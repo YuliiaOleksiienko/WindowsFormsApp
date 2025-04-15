@@ -1,0 +1,13 @@
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\bin\Debug\Yrkesprov.exe.config
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\bin\Debug\Yrkesprov.exe
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\bin\Debug\Yrkesprov.pdb
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.csproj.AssemblyReference.cache
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.Properties.Resources.resources
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.csproj.GenerateResource.cache
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.csproj.CoreCompileInputs.cache
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.exe
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.pdb
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.frmRestaurang.resources
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.frmMeny.resources
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.frmOrder.resources
+C:\Users\Yuliia\source\repos\Yrkesprov\Yrkesprov\obj\Debug\Yrkesprov.frmOrderCompletion.resources
